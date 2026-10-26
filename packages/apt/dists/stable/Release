@@ -2,17 +2,17 @@ Origin: Denizen Blu
 Label: One
 Suite: stable
 Codename: stable
-Date: Mon, 26 Oct 2026 20:27:44 UTC
+Date: Mon, 26 Oct 2026 21:24:58 UTC
 Architectures: amd64 arm64
 Components: main
 Description: One desktop by Denizen Blu
 MD5Sum:
- 9fbe0b50a27ae80c0b7ec006400ed4e2       1374 main/binary-amd64/Packages
- 46d813c788da7f11d57adddcddf895d4        616 main/binary-amd64/Packages.gz
- a4d23fbaa2475b099b2cb3effc228acc       1372 main/binary-arm64/Packages
- ce1948904ad933da154b2a6ff380af1e        616 main/binary-arm64/Packages.gz
+ f867327a9d7459d931ffe467b19d8281       2035 main/binary-amd64/Packages
+ 810326115d548e9368e1fddf7b3aed09        707 main/binary-amd64/Packages.gz
+ e4dea38d7b29479f0a6c2f0942fdcfb5       2032 main/binary-arm64/Packages
+ eee7e4232166bb38849d2c4538a6fddd        705 main/binary-arm64/Packages.gz
 SHA256:
- 1be7c5691e6085e03274f566efd1a13682702463bfbc7b75dd5d145160d80ba5       1374 main/binary-amd64/Packages
- 862f90f293d278fa1a1bbe604657ef38c5a4064d96b0d4619d0866991136cd84        616 main/binary-amd64/Packages.gz
- e3a7376dc170ed5d5c4022651de5026317044159abeca39da40df0e7e213ed57       1372 main/binary-arm64/Packages
- 28df7d32a9f3c6878cf9f1745c901b25404bedb60216d0633aa963561ea056d2        616 main/binary-arm64/Packages.gz
+ 47e316f4f88fb356481028c40a208dda3fdb848c03d03355592b83bfd3c2d6f4       2035 main/binary-amd64/Packages
+ 89e4849cf0d9b577c5c5831c61284695f5ae39c32f60ee9415b33f7ee88b055f        707 main/binary-amd64/Packages.gz
+ 55643b2d9ea48a2124805d2f7312d9417ee8e07c82fbae59cd6cb79125d4608e       2032 main/binary-arm64/Packages
+ 152637b72cb72cf5b7b0b831d0ff5275ba05e5c4a1e53b0e9d4308349601fe47        705 main/binary-arm64/Packages.gz
