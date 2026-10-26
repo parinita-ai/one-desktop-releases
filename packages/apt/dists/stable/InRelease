@@ -5,24 +5,24 @@ Origin: Denizen Blu
 Label: One
 Suite: stable
 Codename: stable
-Date: Mon, 26 Oct 2026 17:20:17 UTC
+Date: Mon, 26 Oct 2026 20:27:44 UTC
 Architectures: amd64 arm64
 Components: main
 Description: One desktop by Denizen Blu
 MD5Sum:
- 1e69da3577f211ec87657504a8d34863        713 main/binary-amd64/Packages
- 43b4c5b0f30caf01b309d35d5f58e7a2        496 main/binary-amd64/Packages.gz
- d81bbc826706425cdc4e26f3925842f1        712 main/binary-arm64/Packages
- 885d0b3bf43fb7d8abeb840a534b663f        495 main/binary-arm64/Packages.gz
+ 9fbe0b50a27ae80c0b7ec006400ed4e2       1374 main/binary-amd64/Packages
+ 46d813c788da7f11d57adddcddf895d4        616 main/binary-amd64/Packages.gz
+ a4d23fbaa2475b099b2cb3effc228acc       1372 main/binary-arm64/Packages
+ ce1948904ad933da154b2a6ff380af1e        616 main/binary-arm64/Packages.gz
 SHA256:
- d2c0045cc9b545f359dae6d4f15bb0fb126a67c290eac40f201faf081ed65a04        713 main/binary-amd64/Packages
- a5bd205953aff69a9d60387f3231bd5e06eb6784d59f2a313f1d4e9d895e1139        496 main/binary-amd64/Packages.gz
- 437f28ac1f634ffc7017ef856ce592dae68904edefefefc490e9d7f710a275a3        712 main/binary-arm64/Packages
- 02f9ac19833835a39e323b44fdbc01ca661673a0d14b97ba51613fa215f04afa        495 main/binary-arm64/Packages.gz
+ 1be7c5691e6085e03274f566efd1a13682702463bfbc7b75dd5d145160d80ba5       1374 main/binary-amd64/Packages
+ 862f90f293d278fa1a1bbe604657ef38c5a4064d96b0d4619d0866991136cd84        616 main/binary-amd64/Packages.gz
+ e3a7376dc170ed5d5c4022651de5026317044159abeca39da40df0e7e213ed57       1372 main/binary-arm64/Packages
+ 28df7d32a9f3c6878cf9f1745c901b25404bedb60216d0633aa963561ea056d2        616 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCat+XKQAKCRCfd7Bf3PUH
-pX4pAP4sReScutTresUQUUSDW9mZhdtf7nu71/c/Q1GwHUKWAgEAhKJOV8w251aw
-Sd5ZqHDcUzDcSF+mL+ygAioU8w62UgI=
-=3VRc
+iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCat+4FgAKCRCfd7Bf3PUH
+paRGAP4kthSswPUS2we/xLLceFxq7tJHPmckSyfCkcnwB+x7mAEA1UbhRRjiAJk/
+q/oMoQ5gmqePBeF2fjVhNIKBtztgZgM=
+=sDLe
 -----END PGP SIGNATURE-----
