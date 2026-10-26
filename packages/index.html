@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>One for Linux — Denizen Blu packages</title>
+<style>
+  :root { color-scheme: light dark; --fg: #0b1220; --muted: #4b5565; --bg: #ffffff; --code: #f2f4f7; }
+  @media (prefers-color-scheme: dark) { :root { --fg: #e6e9ef; --muted: #a3acb9; --bg: #0b1220; --code: #172033; } }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 system-ui, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 16px; }
+  h1 { font-size: 1.8rem; margin: 0 0 8px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+  p, li { color: var(--muted); }
+  pre { background: var(--code); padding: 12px 14px; border-radius: 8px; overflow-x: auto; font-size: 14px; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>One for Linux</h1>
+  <p>The apt repository for One, the Denizen Blu assistant, on Ubuntu and Debian (x64 and Arm).</p>
+
+  <h2>Install</h2>
+  <p>Download the <code>.deb</code> from the
+    <a href="https://github.com/parinita-ai/one-desktop-releases/releases/latest">latest release</a>
+    and double-click it. Installing it adds this repository, so updates come through Software Updater.</p>
+  <p>Or from a terminal:</p>
+<pre><code>sudo install -d -m 0755 /etc/apt/keyrings
+curl -fsSL https://packages.denizenblu.com/one.gpg | sudo tee /etc/apt/keyrings/denizenblu-one.gpg &gt;/dev/null
+printf 'Types: deb\nURIs: https://packages.denizenblu.com/apt\nSuites: stable\nComponents: main\nSigned-By: /etc/apt/keyrings/denizenblu-one.gpg\n' \
+  | sudo tee /etc/apt/sources.list.d/denizenblu-one.sources
+sudo apt update &amp;&amp; sudo apt install one</code></pre>
+
+  <h2>Signing key</h2>
+  <p>Packages are signed by “Denizen Blu Linux packages &lt;support@denizenblu.com&gt;”,
+    fingerprint <code>7944 F0A6 9FEB 329A 8819 2072 DCF6 3AB8 C83E 882A</code>.</p>
+
+  <p><a href="https://help.denizenblu.com/one-desktop">One desktop help</a></p>
+</main>
+</body>
+</html>
