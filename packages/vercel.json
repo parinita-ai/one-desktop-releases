@@ -4,6 +4,11 @@
       "source": "/apt/pool/:tag/:file",
       "destination": "https://github.com/parinita-ai/one-desktop-releases/releases/download/:tag/:file",
       "permanent": false
+    },
+    {
+      "source": "/rpm/:suite/:arch/pool/:tag/:file",
+      "destination": "https://github.com/parinita-ai/one-desktop-releases/releases/download/:tag/:file",
+      "permanent": false
     }
   ],
   "headers": [
