@@ -8,7 +8,7 @@ Codename: stable
 Date: Mon, 26 Oct 2026 21:24:58 UTC
 Architectures: amd64 arm64
 Components: main
-Description: One desktop by Denizen Blu
+Description: One and One CLI by Denizen Blu
 MD5Sum:
  f867327a9d7459d931ffe467b19d8281       2035 main/binary-amd64/Packages
  810326115d548e9368e1fddf7b3aed09        707 main/binary-amd64/Packages.gz
@@ -21,8 +21,8 @@ SHA256:
  152637b72cb72cf5b7b0b831d0ff5275ba05e5c4a1e53b0e9d4308349601fe47        705 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCat/FSAAKCRCfd7Bf3PUH
-pTgwAP45+0xgaVEVjMkSjK7ohIDbJda9JEXshdGfcpmuRWuzRgD/Xc9cDMnGew5b
-zmk5IiuIecpWqg/qSnfCdlLBfCGYMQU=
-=a0tW
+iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCauEwOgAKCRCfd7Bf3PUH
+pS+jAP9k6eDdhDJly/1wa9WHQMbGBDRr2R2F7Ikp5FjAJt7PdQEAr/GbulQVJ4lq
+csKIsL9xXX2QHcJtNtY6JKBu7LvP5A8=
+=Czvd
 -----END PGP SIGNATURE-----

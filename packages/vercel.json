@@ -1,6 +1,16 @@
 {
   "redirects": [
     {
+      "source": "/apt/pool/one-cli/:tag/:file",
+      "destination": "https://github.com/parinita-ai/one-cli-releases/releases/download/:tag/:file",
+      "permanent": false
+    },
+    {
+      "source": "/rpm/:suite/:arch/pool/one-cli/:tag/:file",
+      "destination": "https://github.com/parinita-ai/one-cli-releases/releases/download/:tag/:file",
+      "permanent": false
+    },
+    {
       "source": "/apt/pool/:tag/:file",
       "destination": "https://github.com/parinita-ai/one-desktop-releases/releases/download/:tag/:file",
       "permanent": false

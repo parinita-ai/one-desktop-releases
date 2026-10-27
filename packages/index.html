@@ -20,7 +20,7 @@
 <body>
 <main>
   <h1>One for Linux</h1>
-  <p>The apt and dnf repositories for One, the Denizen Blu assistant, on Ubuntu, Debian and Fedora (x64 and Arm).</p>
+  <p>The apt and dnf repositories for One, the Denizen Blu assistant, and One CLI, on Ubuntu, Debian and Fedora (x64 and Arm).</p>
 
   <h2>Ubuntu and Debian</h2>
   <p>Download the <code>.deb</code> from the
@@ -40,6 +40,12 @@ sudo apt update &amp;&amp; sudo apt install one</code></pre>
 <pre><code>sudo curl -fsSL https://packages.denizenblu.com/rpm/denizenblu-one.repo -o /etc/yum.repos.d/denizenblu-one.repo
 sudo dnf install one</code></pre>
   <p>dnf asks you to accept the signing key below the first time.</p>
+
+  <h2>One CLI</h2>
+  <p>One CLI, the Denizen Blu coding agent for the terminal, comes from the same repository:
+    with it set up as above, <code>sudo apt install one-cli</code> or <code>sudo dnf install one-cli</code>.
+    It installs the <code>one-cli</code> command beside One desktop.
+    <a href="https://help.denizenblu.com/one-cli">One CLI help</a></p>
 
   <h2>Signing key</h2>
   <p>Packages are signed by “Denizen Blu Linux packages &lt;support@denizenblu.com&gt;”,

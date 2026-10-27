@@ -5,7 +5,7 @@ Codename: staging
 Date: Thu, 01 Jan 1970 00:00:00 UTC
 Architectures: amd64 arm64
 Components: main
-Description: One desktop by Denizen Blu
+Description: One and One CLI by Denizen Blu
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e          0 main/binary-amd64/Packages
  4a4dd3598707603b3f76a2378a4504aa         20 main/binary-amd64/Packages.gz

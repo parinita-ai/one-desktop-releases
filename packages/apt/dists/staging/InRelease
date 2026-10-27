@@ -8,7 +8,7 @@ Codename: staging
 Date: Thu, 01 Jan 1970 00:00:00 UTC
 Architectures: amd64 arm64
 Components: main
-Description: One desktop by Denizen Blu
+Description: One and One CLI by Denizen Blu
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e          0 main/binary-amd64/Packages
  4a4dd3598707603b3f76a2378a4504aa         20 main/binary-amd64/Packages.gz
@@ -21,8 +21,8 @@ SHA256:
  f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec         20 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCat+WnQAKCRCfd7Bf3PUH
-peU+AP44hav/Bn6qa0PpU+EvhpsTq92IAD+ntAmz2k6eQgl/aQD9FGNCeuUgpDUd
-GjmC+RYf4qRSgy++svdhG2PJ+3nU2A0=
-=v4gH
+iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCauEwPAAKCRCfd7Bf3PUH
+pVpdAP97oB7aggwcdzruvgYGDyNmVUyeDKtGkri1LwONqwvMdgD8CnsK0qGApdX8
+FD1AIRWZrpX3dAr9puleUyRGuYjAUQg=
+=v5OC
 -----END PGP SIGNATURE-----
