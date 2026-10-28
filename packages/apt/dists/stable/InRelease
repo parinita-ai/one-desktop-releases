@@ -5,24 +5,24 @@ Origin: Denizen Blu
 Label: One
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 00:17:31 UTC
+Date: Wed, 28 Oct 2026 19:46:49 UTC
 Architectures: amd64 arm64
 Components: main
 Description: One and One CLI by Denizen Blu
 MD5Sum:
- 00765e969c45ad58b825c82782a6cb9d       2672 main/binary-amd64/Packages
- 61bd25f7482b5ba16d6067bd71fb1f5c        949 main/binary-amd64/Packages.gz
- b8dbb984f3b8e6d02a1df34fb051353a       2668 main/binary-arm64/Packages
- 0692cedc1c74253c684e6685385b743e        948 main/binary-arm64/Packages.gz
+ 745453b40e1d910884d21b3fda629125       3309 main/binary-amd64/Packages
+ ef3f377d00635d2a1d8283f45bfeec16       1040 main/binary-amd64/Packages.gz
+ cdcc8d88997ceae85a867ff3ca4ad476       3304 main/binary-arm64/Packages
+ 7995ab6f54fdb18e08b5a14eb20d2050       1038 main/binary-arm64/Packages.gz
 SHA256:
- 3dbe5aa0ebe9f49a868bb42874a534f76bb87e88b0724a5c467c97fc3922d25e       2672 main/binary-amd64/Packages
- b206ea777573117d8b536c25cad82732f8f80bb2e48bb007d4a7a54ee8917208        949 main/binary-amd64/Packages.gz
- 0121770fd92c1a98a8b2be97428cfed4e01aa8da06535e69b63482a43bbb45d8       2668 main/binary-arm64/Packages
- 9608effdebd96f31befb0af3367348680c839cc46611e79ed7290dcd7253204f        948 main/binary-arm64/Packages.gz
+ 0eb11b596f100715792e2b1f8e7b699886d5ee31c5a2511b22d354038804bf8c       3309 main/binary-amd64/Packages
+ 3cef4a7eb2b43767a10f2f4c03d592f66ca53d8358f5ef347f6ff67a29007f1e       1040 main/binary-amd64/Packages.gz
+ 5f23a4c579f85979b7c59629212c79579f5aa9d1a539416c8d4b8e329997865a       3304 main/binary-arm64/Packages
+ 3db3e3234f7e1a9fa0bd2fc564ffc274bd08eed114e80f77b3bf5230e985148a       1038 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCauFEvAAKCRCfd7Bf3PUH
-pVymAQC8EhbsJ6fZreZ3IbIfHnvLSBjFMeQ0TNLYuLroBdMRowD9FLOtYGhCZcWJ
-fX3OgRsOgfiSfkqg1kf0m8whwzELNwM=
-=AZzL
+iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCauJYVwAKCRCfd7Bf3PUH
+pXQgAQDvBi4OV6hFZSFY1V+KLG8G8//LE5kx6+ISKHq1PMPcggEAoHG2Oec+PE4t
+ycPGwWDjOuLt31LesTWzD0Ehqt5Pvgg=
+=IzqE
 -----END PGP SIGNATURE-----
