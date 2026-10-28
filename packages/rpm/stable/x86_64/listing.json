@@ -8,5 +8,11 @@
     "tag": "v1.0.2",
     "file": "One-1.0.2-x86_64.rpm",
     "size": 90554713
+  },
+  {
+    "pool": "pool/one-cli",
+    "tag": "v1.0.0",
+    "file": "one-cli-1.0.0-x86_64.rpm",
+    "size": 104616600
   }
 ]

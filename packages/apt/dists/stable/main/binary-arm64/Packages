@@ -54,3 +54,20 @@ Filename: pool/v1.0.1/One-1.0.1-arm64.deb
 Size: 96402180
 MD5sum: 5016082aca70c5ec6160984cd059e419
 SHA256: daaa013ddf57b59c51dd60a42e223fbb2074ce6b73dec49b27409d74bb5cb2c5
+
+Package: one-cli
+Version: 1.0.0-1
+Section: devel
+Priority: optional
+Architecture: arm64
+Maintainer: Denizen Blu LLC <support@denizenblu.com>
+Installed-Size: 230514
+Depends: libc6 (>= 2.28)
+Homepage: https://help.denizenblu.com/one-cli
+Description: One CLI, the Denizen Blu coding agent for the terminal
+ Reads and edits code, runs commands with your permission, and uses One's
+ Conduit models, Jury, Atma memory and chat history with your One account.
+Filename: pool/one-cli/v1.0.0/one-cli-1.0.0-arm64.deb
+Size: 99615948
+MD5sum: 43f127ee1339dcfd1f08f6760ac65873
+SHA256: fe1a7f08054a659a1cce8ae83da087f13f83928d8ac470b8927a15a8c6e8c196

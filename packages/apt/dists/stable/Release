@@ -2,17 +2,17 @@ Origin: Denizen Blu
 Label: One
 Suite: stable
 Codename: stable
-Date: Mon, 26 Oct 2026 21:24:58 UTC
+Date: Wed, 28 Oct 2026 00:17:31 UTC
 Architectures: amd64 arm64
 Components: main
 Description: One and One CLI by Denizen Blu
 MD5Sum:
- f867327a9d7459d931ffe467b19d8281       2035 main/binary-amd64/Packages
- 810326115d548e9368e1fddf7b3aed09        707 main/binary-amd64/Packages.gz
- e4dea38d7b29479f0a6c2f0942fdcfb5       2032 main/binary-arm64/Packages
- eee7e4232166bb38849d2c4538a6fddd        705 main/binary-arm64/Packages.gz
+ 00765e969c45ad58b825c82782a6cb9d       2672 main/binary-amd64/Packages
+ 61bd25f7482b5ba16d6067bd71fb1f5c        949 main/binary-amd64/Packages.gz
+ b8dbb984f3b8e6d02a1df34fb051353a       2668 main/binary-arm64/Packages
+ 0692cedc1c74253c684e6685385b743e        948 main/binary-arm64/Packages.gz
 SHA256:
- 47e316f4f88fb356481028c40a208dda3fdb848c03d03355592b83bfd3c2d6f4       2035 main/binary-amd64/Packages
- 89e4849cf0d9b577c5c5831c61284695f5ae39c32f60ee9415b33f7ee88b055f        707 main/binary-amd64/Packages.gz
- 55643b2d9ea48a2124805d2f7312d9417ee8e07c82fbae59cd6cb79125d4608e       2032 main/binary-arm64/Packages
- 152637b72cb72cf5b7b0b831d0ff5275ba05e5c4a1e53b0e9d4308349601fe47        705 main/binary-arm64/Packages.gz
+ 3dbe5aa0ebe9f49a868bb42874a534f76bb87e88b0724a5c467c97fc3922d25e       2672 main/binary-amd64/Packages
+ b206ea777573117d8b536c25cad82732f8f80bb2e48bb007d4a7a54ee8917208        949 main/binary-amd64/Packages.gz
+ 0121770fd92c1a98a8b2be97428cfed4e01aa8da06535e69b63482a43bbb45d8       2668 main/binary-arm64/Packages
+ 9608effdebd96f31befb0af3367348680c839cc46611e79ed7290dcd7253204f        948 main/binary-arm64/Packages.gz
