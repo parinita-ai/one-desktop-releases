@@ -1,4 +1,23 @@
 Package: one
+Version: 1.1.0
+License: UNLICENSED
+Vendor: Denizen Blu LLC
+Architecture: amd64
+Maintainer: Denizen Blu LLC <support@denizenblu.com>
+Installed-Size: 283163
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Section: default
+Priority: optional
+Homepage: https://github.com/parinita-ai/one-desktop
+Description: Denizen Blu One, on your desktop
+  Chat with One, the Denizen Blu assistant
+Filename: pool/v1.1.0/One-1.1.0-amd64.deb
+Size: 101721336
+MD5sum: b665024003541b5a701b7ddd15a085fc
+SHA256: 205eef9a15e4089dde9d0f03d56802b8fdef45716b3d9179a6a514345dc1464f
+
+Package: one
 Version: 1.0.3
 License: UNLICENSED
 Vendor: Denizen Blu LLC

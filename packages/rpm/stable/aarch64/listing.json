@@ -1,5 +1,10 @@
 [
   {
+    "tag": "v1.1.0",
+    "file": "One-1.1.0-aarch64.rpm",
+    "size": 86179869
+  },
+  {
     "tag": "v1.0.3",
     "file": "One-1.0.3-aarch64.rpm",
     "size": 85909945

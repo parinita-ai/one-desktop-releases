@@ -5,24 +5,24 @@ Origin: Denizen Blu
 Label: One
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 19:46:49 UTC
+Date: Fri, 06 Nov 2026 04:26:54 UTC
 Architectures: amd64 arm64
 Components: main
 Description: One and One CLI by Denizen Blu
 MD5Sum:
- 745453b40e1d910884d21b3fda629125       3309 main/binary-amd64/Packages
- ef3f377d00635d2a1d8283f45bfeec16       1040 main/binary-amd64/Packages.gz
- cdcc8d88997ceae85a867ff3ca4ad476       3304 main/binary-arm64/Packages
- 7995ab6f54fdb18e08b5a14eb20d2050       1038 main/binary-arm64/Packages.gz
+ 39bb4bfabce1c4229340c1064b71e4e2       3970 main/binary-amd64/Packages
+ 22e5ddfd7c99c5fb614a4b1d1d7cbe86       1129 main/binary-amd64/Packages.gz
+ 47c97a5f2c2322ce08beef3e19242987       3964 main/binary-arm64/Packages
+ 3585d46fcd93370d58ec66e0654b046c       1126 main/binary-arm64/Packages.gz
 SHA256:
- 0eb11b596f100715792e2b1f8e7b699886d5ee31c5a2511b22d354038804bf8c       3309 main/binary-amd64/Packages
- 3cef4a7eb2b43767a10f2f4c03d592f66ca53d8358f5ef347f6ff67a29007f1e       1040 main/binary-amd64/Packages.gz
- 5f23a4c579f85979b7c59629212c79579f5aa9d1a539416c8d4b8e329997865a       3304 main/binary-arm64/Packages
- 3db3e3234f7e1a9fa0bd2fc564ffc274bd08eed114e80f77b3bf5230e985148a       1038 main/binary-arm64/Packages.gz
+ c8bfc6e28fe17b43b220ae641df8e90e437283c0772e011e7bbdf9e0325c6590       3970 main/binary-amd64/Packages
+ 9a9ea955ce1ce6100d7b89ebd1b696e514f5b47a4f502703a703210bd32dbeba       1129 main/binary-amd64/Packages.gz
+ 85837a01da72cfc5d618a35dc6a611048e27f989766ae4a4205e550681a9a243       3964 main/binary-arm64/Packages
+ 6d44cf2703cb66adf706f19fb61196f8c88314bc7b4fac77bb3f2ab728bc9277       1126 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCauJYVwAKCRCfd7Bf3PUH
-pXQgAQDvBi4OV6hFZSFY1V+KLG8G8//LE5kx6+ISKHq1PMPcggEAoHG2Oec+PE4t
-ycPGwWDjOuLt31LesTWzD0Ehqt5Pvgg=
-=IzqE
+iHUEARYKAB0WIQSZNTtdF4gyfGIZz1qfd7Bf3PUHpQUCau1aJAAKCRCfd7Bf3PUH
+pXb3AP0bNcB8xwu+3cfQJkSyAUPF+TQc4zKkSgbh/zt0wxmGgAEAia9bc6ZvEnwQ
+QwXswBjaHXJIsDxiro+eYIJU+1zCXAs=
+=PsYo
 -----END PGP SIGNATURE-----
